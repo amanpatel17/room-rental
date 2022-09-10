@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/amanpatel17/room-rental.git/static/css/main.d3971efa.css",
+    "main.js": "/amanpatel17/room-rental.git/static/js/main.98385273.js",
+    "static/media/logo.png": "/amanpatel17/room-rental.git/static/media/logo.8103ce903cf5334d0662.png",
+    "static/media/community.jpg": "/amanpatel17/room-rental.git/static/media/community.54774a87e9ef854741d3.jpg",
+    "index.html": "/amanpatel17/room-rental.git/index.html",
+    "main.d3971efa.css.map": "/amanpatel17/room-rental.git/static/css/main.d3971efa.css.map",
+    "main.98385273.js.map": "/amanpatel17/room-rental.git/static/js/main.98385273.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3971efa.css",
+    "static/js/main.98385273.js"
+  ]
+}
